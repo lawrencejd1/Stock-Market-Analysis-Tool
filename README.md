@@ -17,7 +17,7 @@ The following Python libraries:
 
 You can install these libraries using pip, with the following command:
 
-'pip install yfinance pandas matplotlib seaborn'
+`pip install yfinance pandas matplotlib seaborn`
 
 ## Usage
 
@@ -29,6 +29,6 @@ To use this tool, follow these steps:
 
   3. Run the script using the following command:
 
-      'python stock_analysis.py'
+      `python stock_analysis.py`
 
 The tool will fetch the historical stock price data, compute basic statistics, and display a line chart of the stock price data.
